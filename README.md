@@ -48,6 +48,19 @@
 - Data Science with Python – SmarTed Innovations
 - Introduction to Automation – UiPath
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sujan-J&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sujan-J&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sujan-J&theme=tokyonight&hide_border=true" />
+</p>
+
 ### 📫 Connect With Me
 
 - **LinkedIn:** [J Sujan](https://www.linkedin.com/in/j-sujan-67ab232bb)
